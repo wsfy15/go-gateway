@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41f213e4-65dc-4d6b-8e6e-b52868ffc161" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Y8lOiR5tuJaiLHyd4PhbuH7yh7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/webC" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\proxy\src\proxy" />
+      <recent name="E:\proxy\src\test" />
+      <recent name="E:\proxy\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\proxy\src\webC" />
+      <recent name="E:\proxy\src\webA" />
+      <recent name="E:\proxy\src\webB" />
+      <recent name="E:\proxy" />
+      <recent name="E:\proxy\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build proxy/src/LBProxy">
+    <configuration name="go build proxy/src/LBProxy" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="proxy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/LBProxy/LB.go" />
+      <package value="proxy/src/LBProxy" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build proxy/src/webA" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="proxy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/webA/main.go" />
+      <package value="proxy/src/webA" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build proxy/src/webB" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="proxy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/webB/main.go" />
+      <package value="proxy/src/webB" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build proxy/src/webC" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="proxy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/webC/main.go" />
+      <package value="proxy/src/webC" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build webmain.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="proxy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/webmain.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build proxy/src/LBProxy" />
+        <item itemvalue="Go Build.go build proxy/src/webB" />
+        <item itemvalue="Go Build.go build proxy/src/webC" />
+        <item itemvalue="Go Build.go build proxy/src/webA" />
+        <item itemvalue="Go Build.go build webmain.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41f213e4-65dc-4d6b-8e6e-b52868ffc161" name="Default Changelist" comment="" />
+      <created>1582332073892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582332073892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://mirrors.aliyun.com/goproxy/</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582340789714">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="450" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582340789714" />
+    <state x="486" y="40" key="#go_build_proxy/src" timestamp="1582341531944">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="486" y="40" key="#go_build_proxy/src/0.0.1536.864@0.0.1536.864" timestamp="1582341531944" />
+    <state x="486" y="41" key="#go_test_proxy/src" timestamp="1582341194377">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="486" y="41" key="#go_test_proxy/src/0.0.1536.864@0.0.1536.864" timestamp="1582341194377" />
+    <state width="1485" height="162" key="GridCell.Tab.0.bottom" timestamp="1582459440891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="162" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582459440891" />
+    <state width="1485" height="162" key="GridCell.Tab.0.center" timestamp="1582459440891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="162" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582459440891" />
+    <state width="1485" height="162" key="GridCell.Tab.0.left" timestamp="1582459440891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="162" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582459440891" />
+    <state width="1485" height="162" key="GridCell.Tab.0.right" timestamp="1582459440891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1485" height="162" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582459440891" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1582458898379">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582458898379" />
+  </component>
+</project>

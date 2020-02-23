@@ -1,0 +1,8 @@
+[proxy]
+[proxy.a]
+path=/a
+pass=http://localhost:9000
+
+[proxy.b]
+path=/b
+pass=http://localhost:9001
